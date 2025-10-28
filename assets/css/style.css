@@ -13,3 +13,6 @@
 .logo { font-size: 1.25rem; }
 .nav { list-style: none; display: flex; gap: 1rem; }
 .nav a { text-decoration: none; }
+.site-main { padding: 2rem 1rem; }
+.hero { text-align: center; margin-bottom: 2rem; }
+.features { display: flex; justify-content: space-around; }
